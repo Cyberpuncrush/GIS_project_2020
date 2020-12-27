@@ -1,0 +1,5 @@
+# GIS_project_2020
+GIS2020课程大作业
+programmingdata文件夹包含所有需要的shp文件和POI点的Excel文件
+result_xlsx包含所有运行程序输出的Excel文件
+main.py为主程序
